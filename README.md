@@ -1,1 +1,1 @@
-# git-practice
+Creating a new branch is quick.
